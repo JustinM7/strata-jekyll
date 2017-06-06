@@ -1,12 +1,8 @@
 - title: Yelp NLP Project
   url: http://taylantatli.me/Halve
-  image: /images/Yelp.jpg
+  image: /images/Yelp.png
   completed: true
 - title: RIOT API MOBA analysis
   url: https://medium.com/towards-data-science/data-downpour-b1c4b41d7862
-  image: images/Riot.jpg
-  completed: false
-- title: RIOT API MOBA analysis
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/Yelp.jpg
-  completed: false
+  image: /images/Riot.jpg
+  completed: true
