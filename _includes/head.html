@@ -1,10 +1,31 @@
-<title>{% if page.title %}{{ page.title | append:' - ' | append:site.title }}{% else %}{{ site.title }}{% endif %}</title>
-<meta charset="utf-8" />
-<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description | markdownify | strip_html }}{% endif %}" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<!--[if lte IE 8]><script src="{{ site.github.url }}/assets/js/ie/html5shiv.js"></script><![endif]-->
-<link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css" />
-<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.github.url }}/assets/css/ie8.css" /><![endif]-->
-<link rel="alternate" type="application/atom+xml" href="{{ site.github.url }}/atom.xml" title="Sitewide ATOM Feed" />
-<link rel="alternate" type="application/rss+xml" href="{{ site.github.url }}/rss.xml" title="Sitewide RSS Feed" />
-<link rel="author" type="text/plain" href="{{ site.github.url }}/humans.txt" />
+<!--
+	Twenty by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+<head>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="" />
+    <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.dropotron.min.js"></script>
+    <script src="/js/jquery.scrolly.min.js"></script>
+    <script src="/js/jquery.scrollgress.min.js"></script>
+    <script src="/js/skel.min.js"></script>
+    <script src="/js/skel-layers.min.js"></script>
+    <script src="/js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="/css/skel.css" />
+        <link rel="stylesheet" href="/css/style.css" />
+        <link rel="stylesheet" href="/css/style-wide.css" />
+        <link rel="stylesheet" href="/css/style-noscript.css" />
+    </noscript>
+    <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie/v9.css" /><![endif]-->
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+</head>

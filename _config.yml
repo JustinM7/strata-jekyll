@@ -1,21 +1,14 @@
-title: Justin Ma
-description: >
-After working mainly in front end design I've made the switch into a more
-technical role that is now finding the balance between Design and Big Data in order to bringing the conceptual down to reality.
-copyright: Untitled
-sass:
-  sass_dir: assets/sass
-url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "justinmadata"
-instagram_username:
-pinterest_username:
-flickr_username:
-github_username:  "#"
-feed_icon: rss
-email: "#"
-gems: [jekyll-paginate]
-paginate_path: "/page/:num/"
-paginate: 5
+# Site settings
+title: Twenty Blog
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://locahost:4000" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
