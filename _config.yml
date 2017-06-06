@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Justin Ma
+description: Python | Data Science | Data Analyst | Tableau | Scala | SQL | Machine Learning
+url: https://justinm7.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -33,7 +33,7 @@ sass:
 #google.plus:        username
 twitter:            username
 #facebook:           username
-github:             username
+github:             justinm7
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
