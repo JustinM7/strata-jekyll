@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Hello and Welcome
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+My name is Justin Ma and after working mainly in front end design I've made the switch into a more technical role that is now finding
+the balance between Design and Big Data in order to bring the conceptual down to a comprehensive narrative.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Data Science with a focus on NLP, Gaming/Interactive media analytics, and Machine Learning within Big Data.
