@@ -1,8 +1,12 @@
 - title: Yelp NLP Project
-  url:
+  url:   https://medium.com/@jma7x3/exploring-nlp-aws-bigdata-part-1-53716f3ad671
   image: /images/Yelp.png
-  completed: false
+  completed: true
 - title: RIOT API MOBA analysis
   url: https://medium.com/towards-data-science/data-downpour-b1c4b41d7862
   image: /images/Riot.jpg
   completed: true
+- title: CIFAR-10 - Object Recognition in Images
+  url:
+  image: /images/cifar-10.jpg
+  completed: false
