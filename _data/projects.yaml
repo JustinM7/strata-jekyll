@@ -8,5 +8,5 @@
   completed: true
 - title: CIFAR-10 - Object Recognition in Images
   url:
-  image: /images/cifar-10.jpg
+  image: /images/cifar-10.png
   completed: false
