@@ -6,7 +6,7 @@
   url: https://medium.com/towards-data-science/data-downpour-b1c4b41d7862
   image: /images/Riot.jpg
   completed: true
-- title: CIFAR-10 - Object Recognition in Images
-  url:
-  image: /images/cifar-10.png
-  completed: false
+- title: AR Object Tracking
+  url: https://drive.google.com/file/d/1BoM3uvyYxWr5hYmWZK4YGUDTQhweR5ho/view?usp=sharing
+  image: /images/AR proj.PNG 
+  completed: true
